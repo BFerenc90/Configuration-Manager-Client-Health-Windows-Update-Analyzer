@@ -2,6 +2,8 @@
 
 PowerShell-based diagnostic and reporting tool for Microsoft Configuration Manager (ConfigMgr / MECM / MCM / SCCM) clients.
 
+Sample report: [View Interactive Sample Report](https://BFerenc90.github.io/Configuration-Manager-Client-Health-Windows-Update-Analyzer/CLIENT1_ConfigMgr_TS_Report.html)
+
 # Overview
 
 This script performs a comprehensive health assessment of a Configuration Manager client and generates a detailed troubleshooting report. It collects client configuration data, Windows Update settings, inventory information, networking details, and relevant log files, then analyzes the collected data against a large set of validation checks.
