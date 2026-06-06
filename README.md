@@ -90,3 +90,7 @@ The tool automatically extracts and analyzes key Configuration Manager log files
 - DataTransferService.log
 
 The analyzer highlights relevant warning and error entries to reduce troubleshooting time.
+
+# License
+
+This project is licensed under the MIT License.
